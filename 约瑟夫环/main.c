@@ -4,7 +4,7 @@ int main()
 {
 	int i,j,m=0,k=0; 
 	
-	int num=0;//总人数 
+	int num=0;//总人 
 	int T=0; //报数周期 
 	int out=0;//出局编号 
 	int remain=0;//剩余人数
